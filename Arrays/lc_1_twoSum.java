@@ -3,7 +3,7 @@ package Arrays;
 
 import java.util.*;
 
-class Solution {
+class lc_1_twoSum {
     public int[] twoSum(int[] nums, int target) {
         
         int n = nums.length;

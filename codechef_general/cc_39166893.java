@@ -1,10 +1,12 @@
+package codechef_general;
+
 /* Problem Link: https://www.codechef.com/APO12020/problems/APOC2_03 */
 /* package codechef; // don't place package name! */
 
 import java.util.*;
 
 /* Name of the class has to be "Main" only if the class is public. */
-class Codechef
+class cc_39166893
 {
 	public static void main (String[] args) throws java.lang.Exception
 	{
